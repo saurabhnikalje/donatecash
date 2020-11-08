@@ -10,3 +10,6 @@ Used - Html5, Css3, React, Reactstrap.
 
 Live demo - https://donatecash.herokuapp.com
 
+Note - Still working in making it responsive on Mobile phones.
+
+
